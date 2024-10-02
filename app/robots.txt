@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bokepmeruchan.pages.dev/sitemap.xml
